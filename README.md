@@ -5,6 +5,7 @@
  script list:
  - ip header calculation
  - HTTP digest auth brutforce
+ - read_QRcode
  
 "ip header calculation" предназначен для расчёта параметров ip заголовка пакета.
 
@@ -13,4 +14,8 @@
 "HTTP digest auth brutforce" предназначен для брут форса пароля в HTTP diges authentification.
 
 "HTTP digest auth brutforce" is intended for brute force password in HTTP diges authentification.
+
+"read_QRcode" предназначен для получения информации из QR code.
+
+"read_QRcode" designed to receive information from the QR code.
 
